@@ -14,8 +14,12 @@ name = input("what's your name? ")
 
 print("hello, "+ name)
 
+print("hello,",name)
+
 ## naw it's print any name
 
-name = input("what's your name? ")
 
-print("hello,",name)
+
+
+
+
